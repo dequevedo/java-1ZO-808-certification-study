@@ -1,9 +1,12 @@
 package org.study.examples;
 
-import java.time.LocalTime;
-
 public class Question13 {
-    public static void main(String[] edges) {
-        LocalTime time = LocalTime.of(1, 11);
+    static int[][] game;
+
+    public static void main(String args[]) {
+        game[3][3] = 6; //NullPointer here
+        Object[] obj = game;
+        obj[3] = 'X';
+        System.out.println(game[3][3]);
     }
 }
