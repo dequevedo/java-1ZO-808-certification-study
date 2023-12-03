@@ -1,6 +1,6 @@
-package org.study;
+package org.study.examples;
 
-public class Indexing {
+public class Question1 {
     public static void main(String... books) {
         StringBuilder sb = new StringBuilder();
         for (String book : books) sb.insert(sb.indexOf("c"), book);
