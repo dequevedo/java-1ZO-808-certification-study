@@ -1,4 +1,4 @@
-package org.study.examples;
+package org.study.pdfexamples;
 
 public class Question1 {
     public static void main(String... books) {

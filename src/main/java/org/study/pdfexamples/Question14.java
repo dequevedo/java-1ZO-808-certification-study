@@ -1,4 +1,4 @@
-package org.study.examples;
+package org.study.pdfexamples;
 
 import java.util.ArrayList;
 import java.util.List;

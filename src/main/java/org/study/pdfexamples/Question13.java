@@ -1,4 +1,4 @@
-package org.study.examples;
+package org.study.pdfexamples;
 
 public class Question13 {
     static int[][] game;

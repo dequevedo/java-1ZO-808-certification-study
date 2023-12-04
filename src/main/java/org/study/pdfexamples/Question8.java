@@ -1,6 +1,4 @@
-package org.study.examples;
-
-import java.time.LocalDateTime;
+package org.study.pdfexamples;
 
 public class Question8 {
     public static void main(String... args) {

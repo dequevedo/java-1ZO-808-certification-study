@@ -1,4 +1,4 @@
-package org.study.examples;
+package org.study.pdfexamples;
 
 public class Question12 {
     public static void main(String[] edges) {

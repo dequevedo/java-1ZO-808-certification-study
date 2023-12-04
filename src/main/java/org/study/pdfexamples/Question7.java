@@ -1,7 +1,6 @@
-package org.study.examples;
+package org.study.pdfexamples;
 
 import java.time.LocalDateTime;
-import java.util.ArrayList;
 
 public class Question7 {
     public static void main(String... args) {
